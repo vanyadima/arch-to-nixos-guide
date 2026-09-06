@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Arch Linux to NixOS — Migration Guide" width="100%" />
+  <img src="assets/banner.png" alt="Arch Linux to NixOS — Migration Guide" width="100%" />
 </p>
 
 <div align="center">
